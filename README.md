@@ -26,7 +26,7 @@
 <li>instructor and student review images - <b>randomuser.me</b></li>
 <li>Background images and svg - <b>pixabay.com and svg.com</b></li>
 <li>icons,favicons,course images - <b>bootstrap icons,free website, google free images</b></li>
-<li>reference links - <b>w3school</b>
+<li>reference links - <b>w3school</b></li>
 <div>
 
 <h2 style="margin-top:20px">Full Website Seen</h2>
