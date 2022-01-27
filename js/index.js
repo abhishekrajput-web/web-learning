@@ -11,6 +11,7 @@ navLink.forEach(n => n.addEventListener("click",linkAction));
 
 const sections = document.querySelectorAll("section[id]");
 
+
 window.addEventListener("scroll",scrollActive)
 
 function scrollActive() {
@@ -43,3 +44,22 @@ window.addEventListener("load", function() {
 });
 const year = document.getElementById("year");
 year.innerText = currentYear;
+
+const mybutton = document.getElementById("myBtn");
+mybutton.addEventListener("click", topFunction);
+window.onscroll = function() { scrollFunction() };
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+    } else {
+        mybutton.style.display = "none";
+    }
+}
+
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+
+
