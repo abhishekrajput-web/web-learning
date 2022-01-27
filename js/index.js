@@ -45,6 +45,7 @@ window.addEventListener("load", function() {
 const year = document.getElementById("year");
 year.innerText = currentYear;
 
+// my btn scroll
 const mybutton = document.getElementById("myBtn");
 mybutton.addEventListener("click", topFunction);
 window.onscroll = function() { scrollFunction() };
