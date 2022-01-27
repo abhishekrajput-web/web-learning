@@ -33,5 +33,13 @@ function scrollActive() {
 
 // DYNAMMIC YEAR:
 const currentYear = new Date().getFullYear();
+
+
+
+// PRELOADER EFFECT
+const preloader = document.querySelector(".preloader");
+window.addEventListener("load", function() {
+    preloader.classList.add("hide-preloader");
+});
 const year = document.getElementById("year");
 year.innerText = currentYear;
