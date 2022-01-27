@@ -38,7 +38,7 @@
 <h2 style="margin-top:20px">Author Info</h2>
 <p>Author Name - Abhishek Rajput<p>
 <p>Author Email - abhishekrajputcr7@gmail.com<p>
-<p>Author Linedin - https://github.com/abhishekrajput-web/web-learning.git<p>
+<p>Author Linkedin - <a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">Linkedin Profile</a><p>
  
 
 <h2 style="margin-top:20px">Full Website Seen</h2>
