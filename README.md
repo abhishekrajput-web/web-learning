@@ -34,13 +34,13 @@
 <li>reference links - <b>w3school</b></li>
 <div>
 
- <h2 style="color:white;margin-top:20px">Author Info<h2>
- <div style="font-size:16px;">
- <p>Author Name - Abhsihek Rajput</p>
- <p>Author Email -abhishekrajputcr7@gmail.com</p>
- <p>Author Linkedin  -<a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">linkedin Profile</a></p>
-</div>
  
+<h2 style="margin-top:20px">Author Info</h2>
+<p>Author Name - Abhishek Rajput<p>
+<p>Author Email - abhishekrajputcr7@gmail.com<p>
+<p>Author Linedin - https://github.com/abhishekrajput-web/web-learning.git<p>
+ 
+
 <h2 style="margin-top:20px">Full Website Seen</h2>
 <div>
 <img style="margin-top:20px" src="website pics/webpic1%20(7).jpeg">
